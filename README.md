@@ -21,8 +21,6 @@ Bellabeat Coach is a **data-driven wellness companion** that helps users maintai
 🖼️ **Read the full visual case study on Canva →**  
 👉 [View on Canva](https://www.canva.com/design/DAG4aha_XEE/2F1UpiBuP5gPcyZfgM1phQ/view?utm_content=DAG4aha_XEE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h079aa01679)
 
-📄 _(Optional)_ [Download PDF version](./Bellabeat_Case_Study.pdf)
-
 ---
 
 ## 🔗 Project Links  
